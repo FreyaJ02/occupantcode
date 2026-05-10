@@ -14,7 +14,7 @@ from keras.layers import Bidirectional
 import tensorflow as tf
 from keras import backend as K
 import sys
-sys.path.append(r'/data1/user/qzj/code/tmp_lstm/ISO18571-main')
+sys.path.append(r'/public/home/acnebvshuq/js/occupant/ISO18571-main')
 from objective_rating_metrics.rating import ISO18571
 from sklearn.model_selection import KFold
 import time
@@ -238,8 +238,8 @@ def main():
     random.seed(seed)
     np.random.seed(seed)
     tf.random.set_seed(seed)
-    data_dir = r'/data1/user/qzj/code/3817'
-    save_dir = fr'/data1/user/qzj/code/restult/lstm/seed{seed}'
+    data_dir = r'/public/home/acnebvshuq/js/occupant/dataset/newQ'
+    save_dir = fr'/public/home/acnebvshuq/js/occupant/norm/result/seed{seed}'
     os.makedirs(save_dir, exist_ok=True)
 
     print("加载数据...")
