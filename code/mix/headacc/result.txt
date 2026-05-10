@@ -1,0 +1,1374 @@
+
+评估指标:
+HeadAcceleration MSE: 45464.14926238449, MAE: 141.9636794763092
+
+计算ISO评分:
+
+Sample 1 ISO评分:
+HeadAcceleration - Sample 1 - ISO Score: 0.56 (Corridor: 0.71, Phase: 0.45, Magnitude: 0.42, Slope: 0.53)
+
+Sample 2 ISO评分:
+HeadAcceleration - Sample 2 - ISO Score: 0.68 (Corridor: 0.77, Phase: 0.85, Magnitude: 0.43, Slope: 0.56)
+
+Sample 3 ISO评分:
+HeadAcceleration - Sample 3 - ISO Score: 0.76 (Corridor: 0.78, Phase: 0.95, Magnitude: 0.69, Slope: 0.61)
+
+Sample 4 ISO评分:
+HeadAcceleration - Sample 4 - ISO Score: 0.68 (Corridor: 0.71, Phase: 0.95, Magnitude: 0.44, Slope: 0.59)
+
+Sample 5 ISO评分:
+HeadAcceleration - Sample 5 - ISO Score: 0.84 (Corridor: 0.87, Phase: 0.95, Magnitude: 0.82, Slope: 0.71)
+
+Sample 6 ISO评分:
+HeadAcceleration - Sample 6 - ISO Score: 0.72 (Corridor: 0.77, Phase: 0.85, Magnitude: 0.55, Slope: 0.66)
+
+Sample 7 ISO评分:
+HeadAcceleration - Sample 7 - ISO Score: 0.58 (Corridor: 0.75, Phase: 0.65, Magnitude: 0.21, Slope: 0.56)
+
+Sample 8 ISO评分:
+HeadAcceleration - Sample 8 - ISO Score: 0.85 (Corridor: 0.90, Phase: 0.95, Magnitude: 0.74, Slope: 0.77)
+
+Sample 9 ISO评分:
+HeadAcceleration - Sample 9 - ISO Score: 0.52 (Corridor: 0.66, Phase: 0.50, Magnitude: 0.24, Slope: 0.55)
+
+Sample 10 ISO评分:
+HeadAcceleration - Sample 10 - ISO Score: 0.82 (Corridor: 0.84, Phase: 1.00, Magnitude: 0.74, Slope: 0.69)
+
+Sample 11 ISO评分:
+HeadAcceleration - Sample 11 - ISO Score: 0.64 (Corridor: 0.68, Phase: 0.85, Magnitude: 0.38, Slope: 0.59)
+
+Sample 12 ISO评分:
+HeadAcceleration - Sample 12 - ISO Score: 0.51 (Corridor: 0.49, Phase: 0.55, Magnitude: 0.42, Slope: 0.60)
+
+Sample 13 ISO评分:
+HeadAcceleration - Sample 13 - ISO Score: 0.58 (Corridor: 0.61, Phase: 0.65, Magnitude: 0.46, Slope: 0.58)
+
+Sample 14 ISO评分:
+HeadAcceleration - Sample 14 - ISO Score: 0.65 (Corridor: 0.74, Phase: 0.85, Magnitude: 0.34, Slope: 0.57)
+
+Sample 15 ISO评分:
+HeadAcceleration - Sample 15 - ISO Score: 0.68 (Corridor: 0.67, Phase: 1.00, Magnitude: 0.44, Slope: 0.62)
+
+Sample 16 ISO评分:
+HeadAcceleration - Sample 16 - ISO Score: 0.70 (Corridor: 0.73, Phase: 0.85, Magnitude: 0.52, Slope: 0.67)
+
+Sample 17 ISO评分:
+HeadAcceleration - Sample 17 - ISO Score: 0.76 (Corridor: 0.77, Phase: 1.00, Magnitude: 0.62, Slope: 0.65)
+
+Sample 18 ISO评分:
+HeadAcceleration - Sample 18 - ISO Score: 0.64 (Corridor: 0.70, Phase: 0.75, Magnitude: 0.47, Slope: 0.60)
+
+Sample 19 ISO评分:
+HeadAcceleration - Sample 19 - ISO Score: 0.73 (Corridor: 0.81, Phase: 0.90, Magnitude: 0.52, Slope: 0.61)
+
+Sample 20 ISO评分:
+HeadAcceleration - Sample 20 - ISO Score: 0.85 (Corridor: 0.86, Phase: 1.00, Magnitude: 0.76, Slope: 0.76)
+
+Sample 21 ISO评分:
+HeadAcceleration - Sample 21 - ISO Score: 0.60 (Corridor: 0.75, Phase: 0.65, Magnitude: 0.33, Slope: 0.52)
+
+Sample 22 ISO评分:
+HeadAcceleration - Sample 22 - ISO Score: 0.64 (Corridor: 0.70, Phase: 0.85, Magnitude: 0.38, Slope: 0.55)
+
+Sample 23 ISO评分:
+HeadAcceleration - Sample 23 - ISO Score: 0.85 (Corridor: 0.86, Phase: 0.95, Magnitude: 0.79, Slope: 0.77)
+
+Sample 24 ISO评分:
+HeadAcceleration - Sample 24 - ISO Score: 0.46 (Corridor: 0.44, Phase: 0.45, Magnitude: 0.39, Slope: 0.55)
+
+Sample 25 ISO评分:
+HeadAcceleration - Sample 25 - ISO Score: 0.83 (Corridor: 0.84, Phase: 1.00, Magnitude: 0.75, Slope: 0.71)
+
+Sample 26 ISO评分:
+HeadAcceleration - Sample 26 - ISO Score: 0.67 (Corridor: 0.74, Phase: 0.80, Magnitude: 0.40, Slope: 0.66)
+
+Sample 27 ISO评分:
+HeadAcceleration - Sample 27 - ISO Score: 0.64 (Corridor: 0.75, Phase: 0.70, Magnitude: 0.45, Slope: 0.57)
+
+Sample 28 ISO评分:
+HeadAcceleration - Sample 28 - ISO Score: 0.66 (Corridor: 0.69, Phase: 1.00, Magnitude: 0.33, Slope: 0.59)
+
+Sample 29 ISO评分:
+HeadAcceleration - Sample 29 - ISO Score: 0.80 (Corridor: 0.83, Phase: 0.95, Magnitude: 0.75, Slope: 0.65)
+
+Sample 30 ISO评分:
+HeadAcceleration - Sample 30 - ISO Score: 0.86 (Corridor: 0.88, Phase: 0.95, Magnitude: 0.84, Slope: 0.78)
+
+Sample 31 ISO评分:
+HeadAcceleration - Sample 31 - ISO Score: 0.85 (Corridor: 0.83, Phase: 0.95, Magnitude: 0.87, Slope: 0.78)
+
+Sample 32 ISO评分:
+HeadAcceleration - Sample 32 - ISO Score: 0.64 (Corridor: 0.64, Phase: 0.90, Magnitude: 0.42, Slope: 0.58)
+
+Sample 33 ISO评分:
+HeadAcceleration - Sample 33 - ISO Score: 0.61 (Corridor: 0.85, Phase: 0.40, Magnitude: 0.44, Slope: 0.53)
+
+Sample 34 ISO评分:
+HeadAcceleration - Sample 34 - ISO Score: 0.69 (Corridor: 0.70, Phase: 0.75, Magnitude: 0.58, Slope: 0.71)
+
+Sample 35 ISO评分:
+HeadAcceleration - Sample 35 - ISO Score: 0.73 (Corridor: 0.75, Phase: 0.80, Magnitude: 0.68, Slope: 0.67)
+
+Sample 36 ISO评分:
+HeadAcceleration - Sample 36 - ISO Score: 0.73 (Corridor: 0.77, Phase: 0.85, Magnitude: 0.60, Slope: 0.65)
+
+Sample 37 ISO评分:
+HeadAcceleration - Sample 37 - ISO Score: 0.53 (Corridor: 0.70, Phase: 0.30, Magnitude: 0.40, Slope: 0.54)
+
+Sample 38 ISO评分:
+HeadAcceleration - Sample 38 - ISO Score: 0.78 (Corridor: 0.79, Phase: 0.90, Magnitude: 0.75, Slope: 0.69)
+
+Sample 39 ISO评分:
+HeadAcceleration - Sample 39 - ISO Score: 0.80 (Corridor: 0.82, Phase: 0.95, Magnitude: 0.70, Slope: 0.74)
+
+Sample 40 ISO评分:
+HeadAcceleration - Sample 40 - ISO Score: 0.86 (Corridor: 0.89, Phase: 0.95, Magnitude: 0.86, Slope: 0.73)
+
+Sample 41 ISO评分:
+HeadAcceleration - Sample 41 - ISO Score: 0.78 (Corridor: 0.83, Phase: 0.85, Magnitude: 0.66, Slope: 0.73)
+
+Sample 42 ISO评分:
+HeadAcceleration - Sample 42 - ISO Score: 0.77 (Corridor: 0.74, Phase: 0.95, Magnitude: 0.75, Slope: 0.65)
+
+Sample 43 ISO评分:
+HeadAcceleration - Sample 43 - ISO Score: 0.36 (Corridor: 0.40, Phase: 0.45, Magnitude: 0.19, Slope: 0.36)
+
+Sample 44 ISO评分:
+HeadAcceleration - Sample 44 - ISO Score: 0.77 (Corridor: 0.83, Phase: 1.00, Magnitude: 0.53, Slope: 0.65)
+
+Sample 45 ISO评分:
+HeadAcceleration - Sample 45 - ISO Score: 0.82 (Corridor: 0.84, Phase: 1.00, Magnitude: 0.75, Slope: 0.70)
+
+Sample 46 ISO评分:
+HeadAcceleration - Sample 46 - ISO Score: 0.77 (Corridor: 0.79, Phase: 0.95, Magnitude: 0.67, Slope: 0.65)
+
+Sample 47 ISO评分:
+HeadAcceleration - Sample 47 - ISO Score: 0.78 (Corridor: 0.81, Phase: 0.95, Magnitude: 0.73, Slope: 0.62)
+
+Sample 48 ISO评分:
+HeadAcceleration - Sample 48 - ISO Score: 0.70 (Corridor: 0.80, Phase: 0.85, Magnitude: 0.43, Slope: 0.61)
+
+Sample 49 ISO评分:
+HeadAcceleration - Sample 49 - ISO Score: 0.87 (Corridor: 0.92, Phase: 0.95, Magnitude: 0.77, Slope: 0.79)
+
+Sample 50 ISO评分:
+HeadAcceleration - Sample 50 - ISO Score: 0.68 (Corridor: 0.77, Phase: 0.95, Magnitude: 0.35, Slope: 0.58)
+
+Sample 51 ISO评分:
+HeadAcceleration - Sample 51 - ISO Score: 0.58 (Corridor: 0.76, Phase: 0.55, Magnitude: 0.28, Slope: 0.54)
+
+Sample 52 ISO评分:
+HeadAcceleration - Sample 52 - ISO Score: 0.85 (Corridor: 0.85, Phase: 0.95, Magnitude: 0.83, Slope: 0.76)
+
+Sample 53 ISO评分:
+HeadAcceleration - Sample 53 - ISO Score: 0.76 (Corridor: 0.76, Phase: 0.90, Magnitude: 0.66, Slope: 0.70)
+
+Sample 54 ISO评分:
+HeadAcceleration - Sample 54 - ISO Score: 0.83 (Corridor: 0.85, Phase: 0.95, Magnitude: 0.79, Slope: 0.72)
+
+Sample 55 ISO评分:
+HeadAcceleration - Sample 55 - ISO Score: 0.83 (Corridor: 0.85, Phase: 0.95, Magnitude: 0.80, Slope: 0.72)
+
+Sample 56 ISO评分:
+HeadAcceleration - Sample 56 - ISO Score: 0.89 (Corridor: 0.92, Phase: 0.95, Magnitude: 0.88, Slope: 0.78)
+
+Sample 57 ISO评分:
+HeadAcceleration - Sample 57 - ISO Score: 0.84 (Corridor: 0.85, Phase: 1.00, Magnitude: 0.81, Slope: 0.69)
+
+Sample 58 ISO评分:
+HeadAcceleration - Sample 58 - ISO Score: 0.78 (Corridor: 0.79, Phase: 0.95, Magnitude: 0.70, Slope: 0.69)
+
+Sample 59 ISO评分:
+HeadAcceleration - Sample 59 - ISO Score: 0.61 (Corridor: 0.71, Phase: 0.65, Magnitude: 0.40, Slope: 0.58)
+
+Sample 60 ISO评分:
+HeadAcceleration - Sample 60 - ISO Score: 0.60 (Corridor: 0.75, Phase: 0.65, Magnitude: 0.31, Slope: 0.53)
+
+Sample 61 ISO评分:
+HeadAcceleration - Sample 61 - ISO Score: 0.81 (Corridor: 0.83, Phase: 0.95, Magnitude: 0.72, Slope: 0.75)
+
+Sample 62 ISO评分:
+HeadAcceleration - Sample 62 - ISO Score: 0.75 (Corridor: 0.77, Phase: 0.85, Magnitude: 0.65, Slope: 0.73)
+
+Sample 63 ISO评分:
+HeadAcceleration - Sample 63 - ISO Score: 0.87 (Corridor: 0.89, Phase: 0.95, Magnitude: 0.86, Slope: 0.77)
+
+Sample 64 ISO评分:
+HeadAcceleration - Sample 64 - ISO Score: 0.74 (Corridor: 0.77, Phase: 0.85, Magnitude: 0.69, Slope: 0.60)
+
+Sample 65 ISO评分:
+HeadAcceleration - Sample 65 - ISO Score: 0.81 (Corridor: 0.80, Phase: 0.95, Magnitude: 0.75, Slope: 0.74)
+
+Sample 66 ISO评分:
+HeadAcceleration - Sample 66 - ISO Score: 0.82 (Corridor: 0.84, Phase: 0.95, Magnitude: 0.79, Slope: 0.70)
+
+Sample 67 ISO评分:
+HeadAcceleration - Sample 67 - ISO Score: 0.77 (Corridor: 0.80, Phase: 0.90, Magnitude: 0.75, Slope: 0.60)
+
+Sample 68 ISO评分:
+HeadAcceleration - Sample 68 - ISO Score: 0.45 (Corridor: 0.42, Phase: 0.40, Magnitude: 0.41, Slope: 0.58)
+
+Sample 69 ISO评分:
+HeadAcceleration - Sample 69 - ISO Score: 0.83 (Corridor: 0.83, Phase: 1.00, Magnitude: 0.81, Slope: 0.71)
+
+Sample 70 ISO评分:
+HeadAcceleration - Sample 70 - ISO Score: 0.59 (Corridor: 0.70, Phase: 0.65, Magnitude: 0.34, Slope: 0.55)
+
+Sample 71 ISO评分:
+HeadAcceleration - Sample 71 - ISO Score: 0.65 (Corridor: 0.76, Phase: 0.80, Magnitude: 0.42, Slope: 0.51)
+
+Sample 72 ISO评分:
+HeadAcceleration - Sample 72 - ISO Score: 0.84 (Corridor: 0.85, Phase: 0.95, Magnitude: 0.83, Slope: 0.72)
+
+Sample 73 ISO评分:
+HeadAcceleration - Sample 73 - ISO Score: 0.78 (Corridor: 0.85, Phase: 1.00, Magnitude: 0.56, Slope: 0.65)
+
+Sample 74 ISO评分:
+HeadAcceleration - Sample 74 - ISO Score: 0.84 (Corridor: 0.85, Phase: 1.00, Magnitude: 0.80, Slope: 0.71)
+
+Sample 75 ISO评分:
+HeadAcceleration - Sample 75 - ISO Score: 0.28 (Corridor: 0.35, Phase: 0.10, Magnitude: 0.26, Slope: 0.37)
+
+Sample 76 ISO评分:
+HeadAcceleration - Sample 76 - ISO Score: 0.82 (Corridor: 0.83, Phase: 0.95, Magnitude: 0.74, Slope: 0.75)
+
+Sample 77 ISO评分:
+HeadAcceleration - Sample 77 - ISO Score: 0.77 (Corridor: 0.82, Phase: 0.95, Magnitude: 0.58, Slope: 0.67)
+
+Sample 78 ISO评分:
+HeadAcceleration - Sample 78 - ISO Score: 0.83 (Corridor: 0.85, Phase: 0.95, Magnitude: 0.80, Slope: 0.72)
+
+Sample 79 ISO评分:
+HeadAcceleration - Sample 79 - ISO Score: 0.61 (Corridor: 0.72, Phase: 0.75, Magnitude: 0.34, Slope: 0.54)
+
+Sample 80 ISO评分:
+HeadAcceleration - Sample 80 - ISO Score: 0.61 (Corridor: 0.75, Phase: 0.85, Magnitude: 0.18, Slope: 0.52)
+
+Sample 81 ISO评分:
+HeadAcceleration - Sample 81 - ISO Score: 0.78 (Corridor: 0.78, Phase: 1.00, Magnitude: 0.72, Slope: 0.61)
+
+Sample 82 ISO评分:
+HeadAcceleration - Sample 82 - ISO Score: 0.81 (Corridor: 0.84, Phase: 0.95, Magnitude: 0.75, Slope: 0.69)
+
+Sample 83 ISO评分:
+HeadAcceleration - Sample 83 - ISO Score: 0.61 (Corridor: 0.72, Phase: 0.65, Magnitude: 0.44, Slope: 0.54)
+
+Sample 84 ISO评分:
+HeadAcceleration - Sample 84 - ISO Score: 0.75 (Corridor: 0.77, Phase: 0.80, Magnitude: 0.73, Slope: 0.67)
+
+Sample 85 ISO评分:
+HeadAcceleration - Sample 85 - ISO Score: 0.77 (Corridor: 0.78, Phase: 1.00, Magnitude: 0.68, Slope: 0.63)
+
+Sample 86 ISO评分:
+HeadAcceleration - Sample 86 - ISO Score: 0.76 (Corridor: 0.81, Phase: 1.00, Magnitude: 0.54, Slope: 0.66)
+
+Sample 87 ISO评分:
+HeadAcceleration - Sample 87 - ISO Score: 0.75 (Corridor: 0.79, Phase: 0.85, Magnitude: 0.65, Slope: 0.66)
+
+Sample 88 ISO评分:
+HeadAcceleration - Sample 88 - ISO Score: 0.72 (Corridor: 0.73, Phase: 0.85, Magnitude: 0.64, Slope: 0.64)
+
+Sample 89 ISO评分:
+HeadAcceleration - Sample 89 - ISO Score: 0.82 (Corridor: 0.86, Phase: 0.95, Magnitude: 0.77, Slope: 0.67)
+
+Sample 90 ISO评分:
+HeadAcceleration - Sample 90 - ISO Score: 0.70 (Corridor: 0.70, Phase: 0.80, Magnitude: 0.67, Slope: 0.65)
+
+Sample 91 ISO评分:
+HeadAcceleration - Sample 91 - ISO Score: 0.58 (Corridor: 0.72, Phase: 0.50, Magnitude: 0.39, Slope: 0.57)
+
+Sample 92 ISO评分:
+HeadAcceleration - Sample 92 - ISO Score: 0.76 (Corridor: 0.83, Phase: 0.95, Magnitude: 0.55, Slope: 0.64)
+
+Sample 93 ISO评分:
+HeadAcceleration - Sample 93 - ISO Score: 0.58 (Corridor: 0.73, Phase: 0.55, Magnitude: 0.40, Slope: 0.52)
+
+Sample 94 ISO评分:
+HeadAcceleration - Sample 94 - ISO Score: 0.56 (Corridor: 0.65, Phase: 0.50, Magnitude: 0.43, Slope: 0.60)
+
+Sample 95 ISO评分:
+HeadAcceleration - Sample 95 - ISO Score: 0.58 (Corridor: 0.57, Phase: 0.80, Magnitude: 0.30, Slope: 0.68)
+
+Sample 96 ISO评分:
+HeadAcceleration - Sample 96 - ISO Score: 0.85 (Corridor: 0.87, Phase: 0.95, Magnitude: 0.77, Slope: 0.77)
+
+Sample 97 ISO评分:
+HeadAcceleration - Sample 97 - ISO Score: 0.77 (Corridor: 0.78, Phase: 1.00, Magnitude: 0.71, Slope: 0.60)
+
+Sample 98 ISO评分:
+HeadAcceleration - Sample 98 - ISO Score: 0.60 (Corridor: 0.76, Phase: 0.70, Magnitude: 0.28, Slope: 0.53)
+
+Sample 99 ISO评分:
+HeadAcceleration - Sample 99 - ISO Score: 0.89 (Corridor: 0.91, Phase: 1.00, Magnitude: 0.88, Slope: 0.77)
+
+Sample 100 ISO评分:
+HeadAcceleration - Sample 100 - ISO Score: 0.82 (Corridor: 0.80, Phase: 0.95, Magnitude: 0.81, Slope: 0.72)
+
+Sample 101 ISO评分:
+HeadAcceleration - Sample 101 - ISO Score: 0.64 (Corridor: 0.69, Phase: 0.90, Magnitude: 0.35, Slope: 0.59)
+
+Sample 102 ISO评分:
+HeadAcceleration - Sample 102 - ISO Score: 0.61 (Corridor: 0.55, Phase: 0.70, Magnitude: 0.57, Slope: 0.66)
+
+Sample 103 ISO评分:
+HeadAcceleration - Sample 103 - ISO Score: 0.70 (Corridor: 0.76, Phase: 0.85, Magnitude: 0.53, Slope: 0.60)
+
+Sample 104 ISO评分:
+HeadAcceleration - Sample 104 - ISO Score: 0.64 (Corridor: 0.74, Phase: 0.75, Magnitude: 0.43, Slope: 0.52)
+
+Sample 105 ISO评分:
+HeadAcceleration - Sample 105 - ISO Score: 0.78 (Corridor: 0.80, Phase: 1.00, Magnitude: 0.70, Slope: 0.61)
+
+Sample 106 ISO评分:
+HeadAcceleration - Sample 106 - ISO Score: 0.73 (Corridor: 0.75, Phase: 0.90, Magnitude: 0.66, Slope: 0.62)
+
+Sample 107 ISO评分:
+HeadAcceleration - Sample 107 - ISO Score: 0.53 (Corridor: 0.66, Phase: 0.60, Magnitude: 0.21, Slope: 0.51)
+
+Sample 108 ISO评分:
+HeadAcceleration - Sample 108 - ISO Score: 0.64 (Corridor: 0.76, Phase: 0.75, Magnitude: 0.38, Slope: 0.56)
+
+Sample 109 ISO评分:
+HeadAcceleration - Sample 109 - ISO Score: 0.59 (Corridor: 0.66, Phase: 0.80, Magnitude: 0.28, Slope: 0.55)
+
+Sample 110 ISO评分:
+HeadAcceleration - Sample 110 - ISO Score: 0.57 (Corridor: 0.74, Phase: 0.50, Magnitude: 0.31, Slope: 0.54)
+
+Sample 111 ISO评分:
+HeadAcceleration - Sample 111 - ISO Score: 0.73 (Corridor: 0.73, Phase: 0.80, Magnitude: 0.70, Slope: 0.67)
+
+Sample 112 ISO评分:
+HeadAcceleration - Sample 112 - ISO Score: 0.62 (Corridor: 0.73, Phase: 0.65, Magnitude: 0.44, Slope: 0.55)
+
+Sample 113 ISO评分:
+HeadAcceleration - Sample 113 - ISO Score: 0.90 (Corridor: 0.92, Phase: 1.00, Magnitude: 0.88, Slope: 0.78)
+
+Sample 114 ISO评分:
+HeadAcceleration - Sample 114 - ISO Score: 0.60 (Corridor: 0.72, Phase: 0.85, Magnitude: 0.20, Slope: 0.53)
+
+Sample 115 ISO评分:
+HeadAcceleration - Sample 115 - ISO Score: 0.84 (Corridor: 0.86, Phase: 1.00, Magnitude: 0.80, Slope: 0.70)
+
+Sample 116 ISO评分:
+HeadAcceleration - Sample 116 - ISO Score: 0.71 (Corridor: 0.73, Phase: 0.80, Magnitude: 0.61, Slope: 0.67)
+
+Sample 117 ISO评分:
+HeadAcceleration - Sample 117 - ISO Score: 0.53 (Corridor: 0.68, Phase: 0.40, Magnitude: 0.35, Slope: 0.54)
+
+Sample 118 ISO评分:
+HeadAcceleration - Sample 118 - ISO Score: 0.55 (Corridor: 0.73, Phase: 0.45, Magnitude: 0.32, Slope: 0.53)
+
+Sample 119 ISO评分:
+HeadAcceleration - Sample 119 - ISO Score: 0.65 (Corridor: 0.71, Phase: 0.90, Magnitude: 0.34, Slope: 0.59)
+
+Sample 120 ISO评分:
+HeadAcceleration - Sample 120 - ISO Score: 0.68 (Corridor: 0.81, Phase: 0.80, Magnitude: 0.39, Slope: 0.59)
+
+Sample 121 ISO评分:
+HeadAcceleration - Sample 121 - ISO Score: 0.63 (Corridor: 0.73, Phase: 0.70, Magnitude: 0.41, Slope: 0.55)
+
+Sample 122 ISO评分:
+HeadAcceleration - Sample 122 - ISO Score: 0.55 (Corridor: 0.75, Phase: 0.35, Magnitude: 0.35, Slope: 0.53)
+
+Sample 123 ISO评分:
+HeadAcceleration - Sample 123 - ISO Score: 0.83 (Corridor: 0.84, Phase: 0.95, Magnitude: 0.79, Slope: 0.74)
+
+Sample 124 ISO评分:
+HeadAcceleration - Sample 124 - ISO Score: 0.86 (Corridor: 0.86, Phase: 1.00, Magnitude: 0.79, Slope: 0.79)
+
+Sample 125 ISO评分:
+HeadAcceleration - Sample 125 - ISO Score: 0.49 (Corridor: 0.50, Phase: 0.45, Magnitude: 0.41, Slope: 0.58)
+
+Sample 126 ISO评分:
+HeadAcceleration - Sample 126 - ISO Score: 0.87 (Corridor: 0.90, Phase: 0.95, Magnitude: 0.86, Slope: 0.73)
+
+Sample 127 ISO评分:
+HeadAcceleration - Sample 127 - ISO Score: 0.83 (Corridor: 0.86, Phase: 0.95, Magnitude: 0.78, Slope: 0.68)
+
+Sample 128 ISO评分:
+HeadAcceleration - Sample 128 - ISO Score: 0.86 (Corridor: 0.88, Phase: 1.00, Magnitude: 0.77, Slope: 0.77)
+
+Sample 129 ISO评分:
+HeadAcceleration - Sample 129 - ISO Score: 0.89 (Corridor: 0.89, Phase: 1.00, Magnitude: 0.88, Slope: 0.78)
+
+Sample 130 ISO评分:
+HeadAcceleration - Sample 130 - ISO Score: 0.78 (Corridor: 0.77, Phase: 0.85, Magnitude: 0.73, Slope: 0.75)
+
+Sample 131 ISO评分:
+HeadAcceleration - Sample 131 - ISO Score: 0.69 (Corridor: 0.78, Phase: 0.95, Magnitude: 0.43, Slope: 0.52)
+
+Sample 132 ISO评分:
+HeadAcceleration - Sample 132 - ISO Score: 0.76 (Corridor: 0.77, Phase: 0.85, Magnitude: 0.72, Slope: 0.67)
+
+Sample 133 ISO评分:
+HeadAcceleration - Sample 133 - ISO Score: 0.53 (Corridor: 0.68, Phase: 0.45, Magnitude: 0.30, Slope: 0.54)
+
+Sample 134 ISO评分:
+HeadAcceleration - Sample 134 - ISO Score: 0.67 (Corridor: 0.70, Phase: 0.95, Magnitude: 0.40, Slope: 0.59)
+
+Sample 135 ISO评分:
+HeadAcceleration - Sample 135 - ISO Score: 0.81 (Corridor: 0.85, Phase: 0.90, Magnitude: 0.78, Slope: 0.71)
+
+Sample 136 ISO评分:
+HeadAcceleration - Sample 136 - ISO Score: 0.62 (Corridor: 0.66, Phase: 0.70, Magnitude: 0.50, Slope: 0.59)
+
+Sample 137 ISO评分:
+HeadAcceleration - Sample 137 - ISO Score: 0.85 (Corridor: 0.87, Phase: 0.95, Magnitude: 0.78, Slope: 0.77)
+
+Sample 138 ISO评分:
+HeadAcceleration - Sample 138 - ISO Score: 0.66 (Corridor: 0.74, Phase: 0.95, Magnitude: 0.30, Slope: 0.55)
+
+Sample 139 ISO评分:
+HeadAcceleration - Sample 139 - ISO Score: 0.76 (Corridor: 0.81, Phase: 0.95, Magnitude: 0.55, Slope: 0.65)
+
+Sample 140 ISO评分:
+HeadAcceleration - Sample 140 - ISO Score: 0.54 (Corridor: 0.68, Phase: 0.50, Magnitude: 0.30, Slope: 0.55)
+
+Sample 141 ISO评分:
+HeadAcceleration - Sample 141 - ISO Score: 0.50 (Corridor: 0.64, Phase: 0.30, Magnitude: 0.36, Slope: 0.56)
+
+Sample 142 ISO评分:
+HeadAcceleration - Sample 142 - ISO Score: 0.86 (Corridor: 0.91, Phase: 0.95, Magnitude: 0.74, Slope: 0.77)
+
+Sample 143 ISO评分:
+HeadAcceleration - Sample 143 - ISO Score: 0.87 (Corridor: 0.89, Phase: 0.95, Magnitude: 0.84, Slope: 0.78)
+
+Sample 144 ISO评分:
+HeadAcceleration - Sample 144 - ISO Score: 0.78 (Corridor: 0.80, Phase: 0.90, Magnitude: 0.74, Slope: 0.67)
+
+Sample 145 ISO评分:
+HeadAcceleration - Sample 145 - ISO Score: 0.58 (Corridor: 0.76, Phase: 0.60, Magnitude: 0.27, Slope: 0.54)
+
+Sample 146 ISO评分:
+HeadAcceleration - Sample 146 - ISO Score: 0.85 (Corridor: 0.88, Phase: 0.95, Magnitude: 0.78, Slope: 0.78)
+
+Sample 147 ISO评分:
+HeadAcceleration - Sample 147 - ISO Score: 0.49 (Corridor: 0.67, Phase: 0.15, Magnitude: 0.44, Slope: 0.54)
+
+Sample 148 ISO评分:
+HeadAcceleration - Sample 148 - ISO Score: 0.63 (Corridor: 0.61, Phase: 1.00, Magnitude: 0.33, Slope: 0.60)
+
+Sample 149 ISO评分:
+HeadAcceleration - Sample 149 - ISO Score: 0.89 (Corridor: 0.91, Phase: 1.00, Magnitude: 0.88, Slope: 0.78)
+
+Sample 150 ISO评分:
+HeadAcceleration - Sample 150 - ISO Score: 0.64 (Corridor: 0.67, Phase: 0.85, Magnitude: 0.39, Slope: 0.60)
+
+Sample 151 ISO评分:
+HeadAcceleration - Sample 151 - ISO Score: 0.88 (Corridor: 0.89, Phase: 1.00, Magnitude: 0.88, Slope: 0.77)
+
+Sample 152 ISO评分:
+HeadAcceleration - Sample 152 - ISO Score: 0.90 (Corridor: 0.90, Phase: 1.00, Magnitude: 0.87, Slope: 0.81)
+
+Sample 153 ISO评分:
+HeadAcceleration - Sample 153 - ISO Score: 0.50 (Corridor: 0.65, Phase: 0.40, Magnitude: 0.25, Slope: 0.55)
+
+Sample 154 ISO评分:
+HeadAcceleration - Sample 154 - ISO Score: 0.47 (Corridor: 0.75, Phase: 0.40, Magnitude: 0.00, Slope: 0.43)
+
+Sample 155 ISO评分:
+HeadAcceleration - Sample 155 - ISO Score: 0.61 (Corridor: 0.58, Phase: 0.65, Magnitude: 0.57, Slope: 0.67)
+
+Sample 156 ISO评分:
+HeadAcceleration - Sample 156 - ISO Score: 0.58 (Corridor: 0.67, Phase: 0.55, Magnitude: 0.45, Slope: 0.59)
+
+Sample 157 ISO评分:
+HeadAcceleration - Sample 157 - ISO Score: 0.45 (Corridor: 0.59, Phase: 0.05, Magnitude: 0.50, Slope: 0.53)
+
+Sample 158 ISO评分:
+HeadAcceleration - Sample 158 - ISO Score: 0.68 (Corridor: 0.68, Phase: 0.95, Magnitude: 0.48, Slope: 0.61)
+
+Sample 159 ISO评分:
+HeadAcceleration - Sample 159 - ISO Score: 0.64 (Corridor: 0.75, Phase: 0.80, Magnitude: 0.42, Slope: 0.51)
+
+Sample 160 ISO评分:
+HeadAcceleration - Sample 160 - ISO Score: 0.65 (Corridor: 0.60, Phase: 0.75, Magnitude: 0.55, Slope: 0.72)
+
+Sample 161 ISO评分:
+HeadAcceleration - Sample 161 - ISO Score: 0.54 (Corridor: 0.71, Phase: 0.30, Magnitude: 0.43, Slope: 0.55)
+
+Sample 162 ISO评分:
+HeadAcceleration - Sample 162 - ISO Score: 0.75 (Corridor: 0.78, Phase: 0.90, Magnitude: 0.67, Slope: 0.61)
+
+Sample 163 ISO评分:
+HeadAcceleration - Sample 163 - ISO Score: 0.85 (Corridor: 0.85, Phase: 1.00, Magnitude: 0.80, Slope: 0.77)
+
+Sample 164 ISO评分:
+HeadAcceleration - Sample 164 - ISO Score: 0.75 (Corridor: 0.81, Phase: 0.95, Magnitude: 0.55, Slope: 0.61)
+
+Sample 165 ISO评分:
+HeadAcceleration - Sample 165 - ISO Score: 0.32 (Corridor: 0.34, Phase: 0.15, Magnitude: 0.22, Slope: 0.52)
+
+Sample 166 ISO评分:
+HeadAcceleration - Sample 166 - ISO Score: 0.68 (Corridor: 0.79, Phase: 0.85, Magnitude: 0.40, Slope: 0.58)
+
+Sample 167 ISO评分:
+HeadAcceleration - Sample 167 - ISO Score: 0.79 (Corridor: 0.74, Phase: 1.00, Magnitude: 0.75, Slope: 0.71)
+
+Sample 168 ISO评分:
+HeadAcceleration - Sample 168 - ISO Score: 0.59 (Corridor: 0.55, Phase: 0.70, Magnitude: 0.49, Slope: 0.67)
+
+Sample 169 ISO评分:
+HeadAcceleration - Sample 169 - ISO Score: 0.45 (Corridor: 0.44, Phase: 0.40, Magnitude: 0.42, Slope: 0.57)
+
+Sample 170 ISO评分:
+HeadAcceleration - Sample 170 - ISO Score: 0.48 (Corridor: 0.65, Phase: 0.15, Magnitude: 0.36, Slope: 0.57)
+
+Sample 171 ISO评分:
+HeadAcceleration - Sample 171 - ISO Score: 0.49 (Corridor: 0.61, Phase: 0.20, Magnitude: 0.47, Slope: 0.59)
+
+Sample 172 ISO评分:
+HeadAcceleration - Sample 172 - ISO Score: 0.55 (Corridor: 0.68, Phase: 0.40, Magnitude: 0.42, Slope: 0.57)
+
+Sample 173 ISO评分:
+HeadAcceleration - Sample 173 - ISO Score: 0.66 (Corridor: 0.73, Phase: 0.95, Magnitude: 0.34, Slope: 0.57)
+
+Sample 174 ISO评分:
+HeadAcceleration - Sample 174 - ISO Score: 0.83 (Corridor: 0.83, Phase: 0.90, Magnitude: 0.85, Slope: 0.72)
+
+Sample 175 ISO评分:
+HeadAcceleration - Sample 175 - ISO Score: 0.63 (Corridor: 0.66, Phase: 0.75, Magnitude: 0.48, Slope: 0.60)
+
+Sample 176 ISO评分:
+HeadAcceleration - Sample 176 - ISO Score: 0.64 (Corridor: 0.72, Phase: 0.85, Magnitude: 0.35, Slope: 0.58)
+
+Sample 177 ISO评分:
+HeadAcceleration - Sample 177 - ISO Score: 0.75 (Corridor: 0.74, Phase: 1.00, Magnitude: 0.68, Slope: 0.60)
+
+Sample 178 ISO评分:
+HeadAcceleration - Sample 178 - ISO Score: 0.81 (Corridor: 0.82, Phase: 0.95, Magnitude: 0.75, Slope: 0.71)
+
+Sample 179 ISO评分:
+HeadAcceleration - Sample 179 - ISO Score: 0.62 (Corridor: 0.73, Phase: 0.85, Magnitude: 0.29, Slope: 0.51)
+
+Sample 180 ISO评分:
+HeadAcceleration - Sample 180 - ISO Score: 0.67 (Corridor: 0.67, Phase: 0.85, Magnitude: 0.56, Slope: 0.59)
+
+Sample 181 ISO评分:
+HeadAcceleration - Sample 181 - ISO Score: 0.39 (Corridor: 0.31, Phase: 0.20, Magnitude: 0.60, Slope: 0.53)
+
+Sample 182 ISO评分:
+HeadAcceleration - Sample 182 - ISO Score: 0.83 (Corridor: 0.85, Phase: 1.00, Magnitude: 0.76, Slope: 0.67)
+
+Sample 183 ISO评分:
+HeadAcceleration - Sample 183 - ISO Score: 0.85 (Corridor: 0.85, Phase: 1.00, Magnitude: 0.80, Slope: 0.73)
+
+Sample 184 ISO评分:
+HeadAcceleration - Sample 184 - ISO Score: 0.84 (Corridor: 0.85, Phase: 0.95, Magnitude: 0.80, Slope: 0.78)
+
+Sample 185 ISO评分:
+HeadAcceleration - Sample 185 - ISO Score: 0.77 (Corridor: 0.78, Phase: 0.90, Magnitude: 0.67, Slope: 0.69)
+
+Sample 186 ISO评分:
+HeadAcceleration - Sample 186 - ISO Score: 0.91 (Corridor: 0.92, Phase: 1.00, Magnitude: 0.88, Slope: 0.82)
+
+Sample 187 ISO评分:
+HeadAcceleration - Sample 187 - ISO Score: 0.65 (Corridor: 0.76, Phase: 0.75, Magnitude: 0.47, Slope: 0.51)
+
+Sample 188 ISO评分:
+HeadAcceleration - Sample 188 - ISO Score: 0.70 (Corridor: 0.79, Phase: 0.75, Magnitude: 0.54, Slope: 0.66)
+
+Sample 189 ISO评分:
+HeadAcceleration - Sample 189 - ISO Score: 0.58 (Corridor: 0.55, Phase: 0.65, Magnitude: 0.50, Slope: 0.63)
+
+Sample 190 ISO评分:
+HeadAcceleration - Sample 190 - ISO Score: 0.79 (Corridor: 0.81, Phase: 0.90, Magnitude: 0.73, Slope: 0.68)
+
+Sample 191 ISO评分:
+HeadAcceleration - Sample 191 - ISO Score: 0.76 (Corridor: 0.83, Phase: 0.95, Magnitude: 0.55, Slope: 0.66)
+
+Sample 192 ISO评分:
+HeadAcceleration - Sample 192 - ISO Score: 0.68 (Corridor: 0.75, Phase: 0.95, Magnitude: 0.37, Slope: 0.58)
+
+Sample 193 ISO评分:
+HeadAcceleration - Sample 193 - ISO Score: 0.66 (Corridor: 0.70, Phase: 0.90, Magnitude: 0.40, Slope: 0.59)
+
+Sample 194 ISO评分:
+HeadAcceleration - Sample 194 - ISO Score: 0.64 (Corridor: 0.67, Phase: 0.60, Magnitude: 0.60, Slope: 0.63)
+
+Sample 195 ISO评分:
+HeadAcceleration - Sample 195 - ISO Score: 0.68 (Corridor: 0.78, Phase: 0.90, Magnitude: 0.37, Slope: 0.58)
+
+Sample 196 ISO评分:
+HeadAcceleration - Sample 196 - ISO Score: 0.74 (Corridor: 0.73, Phase: 1.00, Magnitude: 0.67, Slope: 0.58)
+
+Sample 197 ISO评分:
+HeadAcceleration - Sample 197 - ISO Score: 0.79 (Corridor: 0.83, Phase: 1.00, Magnitude: 0.65, Slope: 0.65)
+
+Sample 198 ISO评分:
+HeadAcceleration - Sample 198 - ISO Score: 0.66 (Corridor: 0.63, Phase: 0.75, Magnitude: 0.57, Slope: 0.72)
+
+Sample 199 ISO评分:
+HeadAcceleration - Sample 199 - ISO Score: 0.77 (Corridor: 0.84, Phase: 0.90, Magnitude: 0.61, Slope: 0.66)
+
+Sample 200 ISO评分:
+HeadAcceleration - Sample 200 - ISO Score: 0.78 (Corridor: 0.80, Phase: 0.95, Magnitude: 0.73, Slope: 0.65)
+
+Sample 201 ISO评分:
+HeadAcceleration - Sample 201 - ISO Score: 0.46 (Corridor: 0.65, Phase: 0.15, Magnitude: 0.35, Slope: 0.51)
+
+Sample 202 ISO评分:
+HeadAcceleration - Sample 202 - ISO Score: 0.58 (Corridor: 0.65, Phase: 0.80, Magnitude: 0.27, Slope: 0.55)
+
+Sample 203 ISO评分:
+HeadAcceleration - Sample 203 - ISO Score: 0.75 (Corridor: 0.82, Phase: 0.95, Magnitude: 0.54, Slope: 0.61)
+
+Sample 204 ISO评分:
+HeadAcceleration - Sample 204 - ISO Score: 0.41 (Corridor: 0.56, Phase: 0.00, Magnitude: 0.34, Slope: 0.57)
+
+Sample 205 ISO评分:
+HeadAcceleration - Sample 205 - ISO Score: 0.70 (Corridor: 0.82, Phase: 0.90, Magnitude: 0.40, Slope: 0.58)
+
+Sample 206 ISO评分:
+HeadAcceleration - Sample 206 - ISO Score: 0.67 (Corridor: 0.74, Phase: 0.95, Magnitude: 0.36, Slope: 0.58)
+
+Sample 207 ISO评分:
+HeadAcceleration - Sample 207 - ISO Score: 0.78 (Corridor: 0.84, Phase: 1.00, Magnitude: 0.57, Slope: 0.64)
+
+Sample 208 ISO评分:
+HeadAcceleration - Sample 208 - ISO Score: 0.60 (Corridor: 0.71, Phase: 0.60, Magnitude: 0.40, Slope: 0.59)
+
+Sample 209 ISO评分:
+HeadAcceleration - Sample 209 - ISO Score: 0.49 (Corridor: 0.57, Phase: 0.35, Magnitude: 0.40, Slope: 0.58)
+
+Sample 210 ISO评分:
+HeadAcceleration - Sample 210 - ISO Score: 0.79 (Corridor: 0.84, Phase: 1.00, Magnitude: 0.58, Slope: 0.67)
+
+Sample 211 ISO评分:
+HeadAcceleration - Sample 211 - ISO Score: 0.72 (Corridor: 0.73, Phase: 0.75, Magnitude: 0.70, Slope: 0.69)
+
+Sample 212 ISO评分:
+HeadAcceleration - Sample 212 - ISO Score: 0.47 (Corridor: 0.61, Phase: 0.50, Magnitude: 0.12, Slope: 0.52)
+
+Sample 213 ISO评分:
+HeadAcceleration - Sample 213 - ISO Score: 0.78 (Corridor: 0.79, Phase: 0.85, Magnitude: 0.76, Slope: 0.70)
+
+Sample 214 ISO评分:
+HeadAcceleration - Sample 214 - ISO Score: 0.72 (Corridor: 0.80, Phase: 0.95, Magnitude: 0.44, Slope: 0.61)
+
+Sample 215 ISO评分:
+HeadAcceleration - Sample 215 - ISO Score: 0.90 (Corridor: 0.91, Phase: 0.95, Magnitude: 0.89, Slope: 0.82)
+
+Sample 216 ISO评分:
+HeadAcceleration - Sample 216 - ISO Score: 0.53 (Corridor: 0.64, Phase: 0.55, Magnitude: 0.27, Slope: 0.53)
+
+Sample 217 ISO评分:
+HeadAcceleration - Sample 217 - ISO Score: 0.60 (Corridor: 0.71, Phase: 0.85, Magnitude: 0.25, Slope: 0.51)
+
+Sample 218 ISO评分:
+HeadAcceleration - Sample 218 - ISO Score: 0.61 (Corridor: 0.70, Phase: 0.70, Magnitude: 0.37, Slope: 0.59)
+
+Sample 219 ISO评分:
+HeadAcceleration - Sample 219 - ISO Score: 0.88 (Corridor: 0.90, Phase: 0.95, Magnitude: 0.87, Slope: 0.79)
+
+Sample 220 ISO评分:
+HeadAcceleration - Sample 220 - ISO Score: 0.62 (Corridor: 0.64, Phase: 0.75, Magnitude: 0.48, Slope: 0.59)
+
+Sample 221 ISO评分:
+HeadAcceleration - Sample 221 - ISO Score: 0.68 (Corridor: 0.74, Phase: 1.00, Magnitude: 0.34, Slope: 0.57)
+
+Sample 222 ISO评分:
+HeadAcceleration - Sample 222 - ISO Score: 0.68 (Corridor: 0.71, Phase: 0.95, Magnitude: 0.43, Slope: 0.60)
+
+Sample 223 ISO评分:
+HeadAcceleration - Sample 223 - ISO Score: 0.56 (Corridor: 0.47, Phase: 0.70, Magnitude: 0.45, Slope: 0.72)
+
+Sample 224 ISO评分:
+HeadAcceleration - Sample 224 - ISO Score: 0.57 (Corridor: 0.71, Phase: 0.55, Magnitude: 0.36, Slope: 0.54)
+
+Sample 225 ISO评分:
+HeadAcceleration - Sample 225 - ISO Score: 0.83 (Corridor: 0.87, Phase: 1.00, Magnitude: 0.65, Slope: 0.73)
+
+Sample 226 ISO评分:
+HeadAcceleration - Sample 226 - ISO Score: 0.79 (Corridor: 0.83, Phase: 0.85, Magnitude: 0.68, Slope: 0.74)
+
+Sample 227 ISO评分:
+HeadAcceleration - Sample 227 - ISO Score: 0.67 (Corridor: 0.79, Phase: 0.65, Magnitude: 0.48, Slope: 0.63)
+
+Sample 228 ISO评分:
+HeadAcceleration - Sample 228 - ISO Score: 0.79 (Corridor: 0.80, Phase: 1.00, Magnitude: 0.70, Slope: 0.62)
+
+Sample 229 ISO评分:
+HeadAcceleration - Sample 229 - ISO Score: 0.83 (Corridor: 0.84, Phase: 0.95, Magnitude: 0.80, Slope: 0.71)
+
+Sample 230 ISO评分:
+HeadAcceleration - Sample 230 - ISO Score: 0.88 (Corridor: 0.89, Phase: 0.95, Magnitude: 0.86, Slope: 0.79)
+
+Sample 231 ISO评分:
+HeadAcceleration - Sample 231 - ISO Score: 0.68 (Corridor: 0.69, Phase: 0.95, Magnitude: 0.43, Slope: 0.63)
+
+Sample 232 ISO评分:
+HeadAcceleration - Sample 232 - ISO Score: 0.52 (Corridor: 0.66, Phase: 0.55, Magnitude: 0.21, Slope: 0.53)
+
+Sample 233 ISO评分:
+HeadAcceleration - Sample 233 - ISO Score: 0.82 (Corridor: 0.83, Phase: 0.95, Magnitude: 0.79, Slope: 0.72)
+
+Sample 234 ISO评分:
+HeadAcceleration - Sample 234 - ISO Score: 0.49 (Corridor: 0.65, Phase: 0.30, Magnitude: 0.31, Slope: 0.54)
+
+Sample 235 ISO评分:
+HeadAcceleration - Sample 235 - ISO Score: 0.76 (Corridor: 0.79, Phase: 0.95, Magnitude: 0.70, Slope: 0.59)
+
+Sample 236 ISO评分:
+HeadAcceleration - Sample 236 - ISO Score: 0.82 (Corridor: 0.83, Phase: 0.95, Magnitude: 0.75, Slope: 0.75)
+
+Sample 237 ISO评分:
+HeadAcceleration - Sample 237 - ISO Score: 0.77 (Corridor: 0.83, Phase: 0.95, Magnitude: 0.61, Slope: 0.66)
+
+Sample 238 ISO评分:
+HeadAcceleration - Sample 238 - ISO Score: 0.50 (Corridor: 0.70, Phase: 0.30, Magnitude: 0.25, Slope: 0.54)
+
+Sample 239 ISO评分:
+HeadAcceleration - Sample 239 - ISO Score: 0.70 (Corridor: 0.73, Phase: 0.80, Magnitude: 0.64, Slope: 0.61)
+
+Sample 240 ISO评分:
+HeadAcceleration - Sample 240 - ISO Score: 0.80 (Corridor: 0.81, Phase: 0.90, Magnitude: 0.77, Slope: 0.69)
+
+Sample 241 ISO评分:
+HeadAcceleration - Sample 241 - ISO Score: 0.52 (Corridor: 0.61, Phase: 0.40, Magnitude: 0.39, Slope: 0.57)
+
+Sample 242 ISO评分:
+HeadAcceleration - Sample 242 - ISO Score: 0.56 (Corridor: 0.67, Phase: 0.50, Magnitude: 0.42, Slope: 0.54)
+
+Sample 243 ISO评分:
+HeadAcceleration - Sample 243 - ISO Score: 0.84 (Corridor: 0.84, Phase: 0.95, Magnitude: 0.81, Slope: 0.75)
+
+Sample 244 ISO评分:
+HeadAcceleration - Sample 244 - ISO Score: 0.88 (Corridor: 0.89, Phase: 1.00, Magnitude: 0.84, Slope: 0.78)
+
+Sample 245 ISO评分:
+HeadAcceleration - Sample 245 - ISO Score: 0.71 (Corridor: 0.82, Phase: 0.90, Magnitude: 0.45, Slope: 0.59)
+
+Sample 246 ISO评分:
+HeadAcceleration - Sample 246 - ISO Score: 0.55 (Corridor: 0.67, Phase: 0.65, Magnitude: 0.25, Slope: 0.53)
+
+Sample 247 ISO评分:
+HeadAcceleration - Sample 247 - ISO Score: 0.68 (Corridor: 0.76, Phase: 0.90, Magnitude: 0.41, Slope: 0.59)
+
+Sample 248 ISO评分:
+HeadAcceleration - Sample 248 - ISO Score: 0.60 (Corridor: 0.72, Phase: 0.75, Magnitude: 0.28, Slope: 0.51)
+
+Sample 249 ISO评分:
+HeadAcceleration - Sample 249 - ISO Score: 0.78 (Corridor: 0.81, Phase: 0.90, Magnitude: 0.72, Slope: 0.63)
+
+Sample 250 ISO评分:
+HeadAcceleration - Sample 250 - ISO Score: 0.56 (Corridor: 0.57, Phase: 0.60, Magnitude: 0.49, Slope: 0.58)
+
+Sample 251 ISO评分:
+HeadAcceleration - Sample 251 - ISO Score: 0.81 (Corridor: 0.85, Phase: 0.90, Magnitude: 0.68, Slope: 0.75)
+
+Sample 252 ISO评分:
+HeadAcceleration - Sample 252 - ISO Score: 0.84 (Corridor: 0.84, Phase: 0.95, Magnitude: 0.79, Slope: 0.77)
+
+Sample 253 ISO评分:
+HeadAcceleration - Sample 253 - ISO Score: 0.84 (Corridor: 0.85, Phase: 0.90, Magnitude: 0.81, Slope: 0.77)
+
+Sample 254 ISO评分:
+HeadAcceleration - Sample 254 - ISO Score: 0.63 (Corridor: 0.69, Phase: 0.75, Magnitude: 0.43, Slope: 0.60)
+
+Sample 255 ISO评分:
+HeadAcceleration - Sample 255 - ISO Score: 0.86 (Corridor: 0.87, Phase: 1.00, Magnitude: 0.82, Slope: 0.76)
+
+Sample 256 ISO评分:
+HeadAcceleration - Sample 256 - ISO Score: 0.56 (Corridor: 0.68, Phase: 0.50, Magnitude: 0.40, Slope: 0.55)
+
+Sample 257 ISO评分:
+HeadAcceleration - Sample 257 - ISO Score: 0.80 (Corridor: 0.80, Phase: 1.00, Magnitude: 0.73, Slope: 0.67)
+
+Sample 258 ISO评分:
+HeadAcceleration - Sample 258 - ISO Score: 0.81 (Corridor: 0.83, Phase: 0.90, Magnitude: 0.77, Slope: 0.73)
+
+Sample 259 ISO评分:
+HeadAcceleration - Sample 259 - ISO Score: 0.57 (Corridor: 0.72, Phase: 0.55, Magnitude: 0.33, Slope: 0.55)
+
+Sample 260 ISO评分:
+HeadAcceleration - Sample 260 - ISO Score: 0.84 (Corridor: 0.86, Phase: 1.00, Magnitude: 0.76, Slope: 0.72)
+
+Sample 261 ISO评分:
+HeadAcceleration - Sample 261 - ISO Score: 0.81 (Corridor: 0.84, Phase: 0.90, Magnitude: 0.77, Slope: 0.70)
+
+Sample 262 ISO评分:
+HeadAcceleration - Sample 262 - ISO Score: 0.85 (Corridor: 0.88, Phase: 0.95, Magnitude: 0.82, Slope: 0.70)
+
+Sample 263 ISO评分:
+HeadAcceleration - Sample 263 - ISO Score: 0.58 (Corridor: 0.76, Phase: 0.45, Magnitude: 0.38, Slope: 0.53)
+
+Sample 264 ISO评分:
+HeadAcceleration - Sample 264 - ISO Score: 0.86 (Corridor: 0.87, Phase: 1.00, Magnitude: 0.80, Slope: 0.75)
+
+Sample 265 ISO评分:
+HeadAcceleration - Sample 265 - ISO Score: 0.58 (Corridor: 0.76, Phase: 0.60, Magnitude: 0.28, Slope: 0.52)
+
+Sample 266 ISO评分:
+HeadAcceleration - Sample 266 - ISO Score: 0.90 (Corridor: 0.92, Phase: 1.00, Magnitude: 0.89, Slope: 0.80)
+
+Sample 267 ISO评分:
+HeadAcceleration - Sample 267 - ISO Score: 0.58 (Corridor: 0.58, Phase: 0.70, Magnitude: 0.43, Slope: 0.59)
+
+Sample 268 ISO评分:
+HeadAcceleration - Sample 268 - ISO Score: 0.76 (Corridor: 0.82, Phase: 0.95, Magnitude: 0.56, Slope: 0.67)
+
+Sample 269 ISO评分:
+HeadAcceleration - Sample 269 - ISO Score: 0.57 (Corridor: 0.59, Phase: 0.60, Magnitude: 0.49, Slope: 0.58)
+
+Sample 270 ISO评分:
+HeadAcceleration - Sample 270 - ISO Score: 0.69 (Corridor: 0.79, Phase: 0.85, Magnitude: 0.44, Slope: 0.56)
+
+Sample 271 ISO评分:
+HeadAcceleration - Sample 271 - ISO Score: 0.71 (Corridor: 0.80, Phase: 1.00, Magnitude: 0.38, Slope: 0.58)
+
+Sample 272 ISO评分:
+HeadAcceleration - Sample 272 - ISO Score: 0.58 (Corridor: 0.67, Phase: 0.60, Magnitude: 0.41, Slope: 0.58)
+
+Sample 273 ISO评分:
+HeadAcceleration - Sample 273 - ISO Score: 0.86 (Corridor: 0.89, Phase: 0.95, Magnitude: 0.86, Slope: 0.72)
+
+Sample 274 ISO评分:
+HeadAcceleration - Sample 274 - ISO Score: 0.57 (Corridor: 0.55, Phase: 0.50, Magnitude: 0.59, Slope: 0.64)
+
+Sample 275 ISO评分:
+HeadAcceleration - Sample 275 - ISO Score: 0.60 (Corridor: 0.71, Phase: 0.65, Magnitude: 0.40, Slope: 0.56)
+
+Sample 276 ISO评分:
+HeadAcceleration - Sample 276 - ISO Score: 0.54 (Corridor: 0.77, Phase: 0.30, Magnitude: 0.33, Slope: 0.55)
+
+Sample 277 ISO评分:
+HeadAcceleration - Sample 277 - ISO Score: 0.67 (Corridor: 0.68, Phase: 0.80, Magnitude: 0.59, Slope: 0.60)
+
+Sample 278 ISO评分:
+HeadAcceleration - Sample 278 - ISO Score: 0.66 (Corridor: 0.77, Phase: 0.80, Magnitude: 0.41, Slope: 0.55)
+
+Sample 279 ISO评分:
+HeadAcceleration - Sample 279 - ISO Score: 0.84 (Corridor: 0.87, Phase: 1.00, Magnitude: 0.75, Slope: 0.72)
+
+Sample 280 ISO评分:
+HeadAcceleration - Sample 280 - ISO Score: 0.81 (Corridor: 0.84, Phase: 0.90, Magnitude: 0.79, Slope: 0.70)
+
+Sample 281 ISO评分:
+HeadAcceleration - Sample 281 - ISO Score: 0.72 (Corridor: 0.75, Phase: 0.80, Magnitude: 0.62, Slope: 0.66)
+
+Sample 282 ISO评分:
+HeadAcceleration - Sample 282 - ISO Score: 0.82 (Corridor: 0.77, Phase: 0.95, Magnitude: 0.83, Slope: 0.78)
+
+Sample 283 ISO评分:
+HeadAcceleration - Sample 283 - ISO Score: 0.59 (Corridor: 0.67, Phase: 0.60, Magnitude: 0.44, Slope: 0.59)
+
+Sample 284 ISO评分:
+HeadAcceleration - Sample 284 - ISO Score: 0.83 (Corridor: 0.82, Phase: 1.00, Magnitude: 0.78, Slope: 0.71)
+
+Sample 285 ISO评分:
+HeadAcceleration - Sample 285 - ISO Score: 0.54 (Corridor: 0.66, Phase: 0.50, Magnitude: 0.31, Slope: 0.55)
+
+Sample 286 ISO评分:
+HeadAcceleration - Sample 286 - ISO Score: 0.88 (Corridor: 0.90, Phase: 1.00, Magnitude: 0.85, Slope: 0.76)
+
+Sample 287 ISO评分:
+HeadAcceleration - Sample 287 - ISO Score: 0.74 (Corridor: 0.78, Phase: 0.85, Magnitude: 0.65, Slope: 0.67)
+
+Sample 288 ISO评分:
+HeadAcceleration - Sample 288 - ISO Score: 0.68 (Corridor: 0.71, Phase: 1.00, Magnitude: 0.40, Slope: 0.59)
+
+Sample 289 ISO评分:
+HeadAcceleration - Sample 289 - ISO Score: 0.78 (Corridor: 0.78, Phase: 1.00, Magnitude: 0.71, Slope: 0.62)
+
+Sample 290 ISO评分:
+HeadAcceleration - Sample 290 - ISO Score: 0.85 (Corridor: 0.88, Phase: 1.00, Magnitude: 0.79, Slope: 0.73)
+
+Sample 291 ISO评分:
+HeadAcceleration - Sample 291 - ISO Score: 0.51 (Corridor: 0.59, Phase: 0.30, Magnitude: 0.45, Slope: 0.60)
+
+Sample 292 ISO评分:
+HeadAcceleration - Sample 292 - ISO Score: 0.49 (Corridor: 0.65, Phase: 0.15, Magnitude: 0.46, Slope: 0.54)
+
+Sample 293 ISO评分:
+HeadAcceleration - Sample 293 - ISO Score: 0.77 (Corridor: 0.79, Phase: 0.95, Magnitude: 0.66, Slope: 0.66)
+
+Sample 294 ISO评分:
+HeadAcceleration - Sample 294 - ISO Score: 0.86 (Corridor: 0.90, Phase: 0.95, Magnitude: 0.76, Slope: 0.77)
+
+Sample 295 ISO评分:
+HeadAcceleration - Sample 295 - ISO Score: 0.73 (Corridor: 0.75, Phase: 0.80, Magnitude: 0.72, Slope: 0.66)
+
+Sample 296 ISO评分:
+HeadAcceleration - Sample 296 - ISO Score: 0.83 (Corridor: 0.85, Phase: 1.00, Magnitude: 0.77, Slope: 0.70)
+
+Sample 297 ISO评分:
+HeadAcceleration - Sample 297 - ISO Score: 0.87 (Corridor: 0.88, Phase: 1.00, Magnitude: 0.83, Slope: 0.78)
+
+Sample 298 ISO评分:
+HeadAcceleration - Sample 298 - ISO Score: 0.60 (Corridor: 0.71, Phase: 1.00, Magnitude: 0.02, Slope: 0.54)
+
+Sample 299 ISO评分:
+HeadAcceleration - Sample 299 - ISO Score: 0.85 (Corridor: 0.86, Phase: 0.95, Magnitude: 0.81, Slope: 0.75)
+
+Sample 300 ISO评分:
+HeadAcceleration - Sample 300 - ISO Score: 0.20 (Corridor: 0.35, Phase: 0.00, Magnitude: 0.00, Slope: 0.29)
+
+Sample 301 ISO评分:
+HeadAcceleration - Sample 301 - ISO Score: 0.48 (Corridor: 0.61, Phase: 0.40, Magnitude: 0.25, Slope: 0.51)
+
+Sample 302 ISO评分:
+HeadAcceleration - Sample 302 - ISO Score: 0.52 (Corridor: 0.64, Phase: 0.60, Magnitude: 0.23, Slope: 0.51)
+
+Sample 303 ISO评分:
+HeadAcceleration - Sample 303 - ISO Score: 0.62 (Corridor: 0.74, Phase: 0.65, Magnitude: 0.44, Slope: 0.51)
+
+Sample 304 ISO评分:
+HeadAcceleration - Sample 304 - ISO Score: 0.64 (Corridor: 0.70, Phase: 0.80, Magnitude: 0.40, Slope: 0.59)
+
+Sample 305 ISO评分:
+HeadAcceleration - Sample 305 - ISO Score: 0.87 (Corridor: 0.89, Phase: 0.95, Magnitude: 0.84, Slope: 0.77)
+
+Sample 306 ISO评分:
+HeadAcceleration - Sample 306 - ISO Score: 0.52 (Corridor: 0.53, Phase: 0.50, Magnitude: 0.45, Slope: 0.60)
+
+Sample 307 ISO评分:
+HeadAcceleration - Sample 307 - ISO Score: 0.71 (Corridor: 0.80, Phase: 0.95, Magnitude: 0.40, Slope: 0.62)
+
+Sample 308 ISO评分:
+HeadAcceleration - Sample 308 - ISO Score: 0.60 (Corridor: 0.70, Phase: 0.60, Magnitude: 0.45, Slope: 0.55)
+
+Sample 309 ISO评分:
+HeadAcceleration - Sample 309 - ISO Score: 0.65 (Corridor: 0.66, Phase: 0.85, Magnitude: 0.48, Slope: 0.60)
+
+Sample 310 ISO评分:
+HeadAcceleration - Sample 310 - ISO Score: 0.68 (Corridor: 0.77, Phase: 0.90, Magnitude: 0.44, Slope: 0.52)
+
+Sample 311 ISO评分:
+HeadAcceleration - Sample 311 - ISO Score: 0.59 (Corridor: 0.66, Phase: 0.75, Magnitude: 0.31, Slope: 0.58)
+
+Sample 312 ISO评分:
+HeadAcceleration - Sample 312 - ISO Score: 0.58 (Corridor: 0.71, Phase: 0.90, Magnitude: 0.07, Slope: 0.54)
+
+Sample 313 ISO评分:
+HeadAcceleration - Sample 313 - ISO Score: 0.73 (Corridor: 0.71, Phase: 1.00, Magnitude: 0.64, Slope: 0.57)
+
+Sample 314 ISO评分:
+HeadAcceleration - Sample 314 - ISO Score: 0.87 (Corridor: 0.89, Phase: 0.95, Magnitude: 0.86, Slope: 0.76)
+
+Sample 315 ISO评分:
+HeadAcceleration - Sample 315 - ISO Score: 0.67 (Corridor: 0.79, Phase: 0.85, Magnitude: 0.35, Slope: 0.58)
+
+Sample 316 ISO评分:
+HeadAcceleration - Sample 316 - ISO Score: 0.32 (Corridor: 0.37, Phase: 0.15, Magnitude: 0.29, Slope: 0.43)
+
+Sample 317 ISO评分:
+HeadAcceleration - Sample 317 - ISO Score: 0.67 (Corridor: 0.78, Phase: 0.90, Magnitude: 0.30, Slope: 0.59)
+
+Sample 318 ISO评分:
+HeadAcceleration - Sample 318 - ISO Score: 0.85 (Corridor: 0.86, Phase: 1.00, Magnitude: 0.83, Slope: 0.68)
+
+Sample 319 ISO评分:
+HeadAcceleration - Sample 319 - ISO Score: 0.63 (Corridor: 0.74, Phase: 0.70, Magnitude: 0.45, Slope: 0.53)
+
+Sample 320 ISO评分:
+HeadAcceleration - Sample 320 - ISO Score: 0.59 (Corridor: 0.71, Phase: 0.90, Magnitude: 0.08, Slope: 0.54)
+
+Sample 321 ISO评分:
+HeadAcceleration - Sample 321 - ISO Score: 0.67 (Corridor: 0.77, Phase: 0.80, Magnitude: 0.49, Slope: 0.52)
+
+Sample 322 ISO评分:
+HeadAcceleration - Sample 322 - ISO Score: 0.57 (Corridor: 0.63, Phase: 0.60, Magnitude: 0.39, Slope: 0.58)
+
+Sample 323 ISO评分:
+HeadAcceleration - Sample 323 - ISO Score: 0.83 (Corridor: 0.81, Phase: 0.95, Magnitude: 0.82, Slope: 0.75)
+
+Sample 324 ISO评分:
+HeadAcceleration - Sample 324 - ISO Score: 0.54 (Corridor: 0.75, Phase: 0.40, Magnitude: 0.27, Slope: 0.53)
+
+Sample 325 ISO评分:
+HeadAcceleration - Sample 325 - ISO Score: 0.64 (Corridor: 0.73, Phase: 0.70, Magnitude: 0.47, Slope: 0.55)
+
+Sample 326 ISO评分:
+HeadAcceleration - Sample 326 - ISO Score: 0.67 (Corridor: 0.79, Phase: 0.85, Magnitude: 0.37, Slope: 0.57)
+
+Sample 327 ISO评分:
+HeadAcceleration - Sample 327 - ISO Score: 0.69 (Corridor: 0.72, Phase: 0.75, Magnitude: 0.62, Slope: 0.66)
+
+Sample 328 ISO评分:
+HeadAcceleration - Sample 328 - ISO Score: 0.54 (Corridor: 0.59, Phase: 0.45, Magnitude: 0.49, Slope: 0.59)
+
+Sample 329 ISO评分:
+HeadAcceleration - Sample 329 - ISO Score: 0.69 (Corridor: 0.71, Phase: 0.90, Magnitude: 0.54, Slope: 0.58)
+
+Sample 330 ISO评分:
+HeadAcceleration - Sample 330 - ISO Score: 0.64 (Corridor: 0.73, Phase: 0.80, Magnitude: 0.38, Slope: 0.55)
+
+Sample 331 ISO评分:
+HeadAcceleration - Sample 331 - ISO Score: 0.84 (Corridor: 0.84, Phase: 1.00, Magnitude: 0.82, Slope: 0.67)
+
+Sample 332 ISO评分:
+HeadAcceleration - Sample 332 - ISO Score: 0.86 (Corridor: 0.86, Phase: 0.95, Magnitude: 0.86, Slope: 0.74)
+
+Sample 333 ISO评分:
+HeadAcceleration - Sample 333 - ISO Score: 0.61 (Corridor: 0.57, Phase: 0.75, Magnitude: 0.49, Slope: 0.68)
+
+Sample 334 ISO评分:
+HeadAcceleration - Sample 334 - ISO Score: 0.73 (Corridor: 0.80, Phase: 0.95, Magnitude: 0.48, Slope: 0.61)
+
+Sample 335 ISO评分:
+HeadAcceleration - Sample 335 - ISO Score: 0.79 (Corridor: 0.83, Phase: 0.90, Magnitude: 0.72, Slope: 0.66)
+
+Sample 336 ISO评分:
+HeadAcceleration - Sample 336 - ISO Score: 0.80 (Corridor: 0.80, Phase: 1.00, Magnitude: 0.71, Slope: 0.66)
+
+Sample 337 ISO评分:
+HeadAcceleration - Sample 337 - ISO Score: 0.63 (Corridor: 0.74, Phase: 0.70, Magnitude: 0.39, Slope: 0.60)
+
+Sample 338 ISO评分:
+HeadAcceleration - Sample 338 - ISO Score: 0.73 (Corridor: 0.80, Phase: 0.95, Magnitude: 0.48, Slope: 0.64)
+
+Sample 339 ISO评分:
+HeadAcceleration - Sample 339 - ISO Score: 0.63 (Corridor: 0.76, Phase: 0.75, Magnitude: 0.31, Slope: 0.57)
+
+Sample 340 ISO评分:
+HeadAcceleration - Sample 340 - ISO Score: 0.54 (Corridor: 0.71, Phase: 0.30, Magnitude: 0.44, Slope: 0.54)
+
+Sample 341 ISO评分:
+HeadAcceleration - Sample 341 - ISO Score: 0.75 (Corridor: 0.83, Phase: 0.90, Magnitude: 0.55, Slope: 0.63)
+
+Sample 342 ISO评分:
+HeadAcceleration - Sample 342 - ISO Score: 0.69 (Corridor: 0.67, Phase: 1.00, Magnitude: 0.45, Slope: 0.63)
+
+Sample 343 ISO评分:
+HeadAcceleration - Sample 343 - ISO Score: 0.56 (Corridor: 0.70, Phase: 0.35, Magnitude: 0.49, Slope: 0.54)
+
+Sample 344 ISO评分:
+HeadAcceleration - Sample 344 - ISO Score: 0.72 (Corridor: 0.72, Phase: 1.00, Magnitude: 0.54, Slope: 0.60)
+
+Sample 345 ISO评分:
+HeadAcceleration - Sample 345 - ISO Score: 0.77 (Corridor: 0.77, Phase: 1.00, Magnitude: 0.70, Slope: 0.61)
+
+Sample 346 ISO评分:
+HeadAcceleration - Sample 346 - ISO Score: 0.70 (Corridor: 0.72, Phase: 0.95, Magnitude: 0.51, Slope: 0.60)
+
+Sample 347 ISO评分:
+HeadAcceleration - Sample 347 - ISO Score: 0.84 (Corridor: 0.84, Phase: 0.95, Magnitude: 0.80, Slope: 0.79)
+
+Sample 348 ISO评分:
+HeadAcceleration - Sample 348 - ISO Score: 0.78 (Corridor: 0.77, Phase: 0.90, Magnitude: 0.81, Slope: 0.64)
+
+Sample 349 ISO评分:
+HeadAcceleration - Sample 349 - ISO Score: 0.24 (Corridor: 0.29, Phase: 0.00, Magnitude: 0.11, Slope: 0.49)
+
+Sample 350 ISO评分:
+HeadAcceleration - Sample 350 - ISO Score: 0.83 (Corridor: 0.85, Phase: 1.00, Magnitude: 0.74, Slope: 0.70)
+
+Sample 351 ISO评分:
+HeadAcceleration - Sample 351 - ISO Score: 0.75 (Corridor: 0.79, Phase: 0.85, Magnitude: 0.69, Slope: 0.65)
+
+Sample 352 ISO评分:
+HeadAcceleration - Sample 352 - ISO Score: 0.47 (Corridor: 0.35, Phase: 0.65, Magnitude: 0.36, Slope: 0.65)
+
+Sample 353 ISO评分:
+HeadAcceleration - Sample 353 - ISO Score: 0.18 (Corridor: 0.18, Phase: 0.00, Magnitude: 0.04, Slope: 0.47)
+
+Sample 354 ISO评分:
+HeadAcceleration - Sample 354 - ISO Score: 0.83 (Corridor: 0.82, Phase: 0.85, Magnitude: 0.87, Slope: 0.80)
+
+Sample 355 ISO评分:
+HeadAcceleration - Sample 355 - ISO Score: 0.42 (Corridor: 0.73, Phase: 0.15, Magnitude: 0.00, Slope: 0.47)
+
+Sample 356 ISO评分:
+HeadAcceleration - Sample 356 - ISO Score: 0.84 (Corridor: 0.85, Phase: 1.00, Magnitude: 0.83, Slope: 0.68)
+
+Sample 357 ISO评分:
+HeadAcceleration - Sample 357 - ISO Score: 0.55 (Corridor: 0.66, Phase: 0.70, Magnitude: 0.20, Slope: 0.52)
+
+Sample 358 ISO评分:
+HeadAcceleration - Sample 358 - ISO Score: 0.58 (Corridor: 0.71, Phase: 0.60, Magnitude: 0.34, Slope: 0.56)
+
+Sample 359 ISO评分:
+HeadAcceleration - Sample 359 - ISO Score: 0.70 (Corridor: 0.78, Phase: 1.00, Magnitude: 0.42, Slope: 0.53)
+
+Sample 360 ISO评分:
+HeadAcceleration - Sample 360 - ISO Score: 0.72 (Corridor: 0.80, Phase: 0.90, Magnitude: 0.51, Slope: 0.61)
+
+Sample 361 ISO评分:
+HeadAcceleration - Sample 361 - ISO Score: 0.85 (Corridor: 0.85, Phase: 0.95, Magnitude: 0.81, Slope: 0.80)
+
+Sample 362 ISO评分:
+HeadAcceleration - Sample 362 - ISO Score: 0.76 (Corridor: 0.77, Phase: 1.00, Magnitude: 0.65, Slope: 0.63)
+
+Sample 363 ISO评分:
+HeadAcceleration - Sample 363 - ISO Score: 0.88 (Corridor: 0.89, Phase: 1.00, Magnitude: 0.88, Slope: 0.76)
+
+Sample 364 ISO评分:
+HeadAcceleration - Sample 364 - ISO Score: 0.81 (Corridor: 0.81, Phase: 0.95, Magnitude: 0.78, Slope: 0.69)
+
+Sample 365 ISO评分:
+HeadAcceleration - Sample 365 - ISO Score: 0.84 (Corridor: 0.87, Phase: 0.95, Magnitude: 0.82, Slope: 0.70)
+
+Sample 366 ISO评分:
+HeadAcceleration - Sample 366 - ISO Score: 0.60 (Corridor: 0.66, Phase: 0.75, Magnitude: 0.35, Slope: 0.58)
+
+Sample 367 ISO评分:
+HeadAcceleration - Sample 367 - ISO Score: 0.61 (Corridor: 0.75, Phase: 0.85, Magnitude: 0.17, Slope: 0.54)
+
+Sample 368 ISO评分:
+HeadAcceleration - Sample 368 - ISO Score: 0.56 (Corridor: 0.60, Phase: 0.55, Magnitude: 0.43, Slope: 0.58)
+
+Sample 369 ISO评分:
+HeadAcceleration - Sample 369 - ISO Score: 0.52 (Corridor: 0.51, Phase: 0.50, Magnitude: 0.45, Slope: 0.61)
+
+Sample 370 ISO评分:
+HeadAcceleration - Sample 370 - ISO Score: 0.68 (Corridor: 0.76, Phase: 0.85, Magnitude: 0.43, Slope: 0.58)
+
+Sample 371 ISO评分:
+HeadAcceleration - Sample 371 - ISO Score: 0.55 (Corridor: 0.68, Phase: 0.55, Magnitude: 0.29, Slope: 0.55)
+
+Sample 372 ISO评分:
+HeadAcceleration - Sample 372 - ISO Score: 0.58 (Corridor: 0.71, Phase: 0.90, Magnitude: 0.08, Slope: 0.53)
+
+Sample 373 ISO评分:
+HeadAcceleration - Sample 373 - ISO Score: 0.69 (Corridor: 0.69, Phase: 0.80, Magnitude: 0.66, Slope: 0.63)
+
+Sample 374 ISO评分:
+HeadAcceleration - Sample 374 - ISO Score: 0.72 (Corridor: 0.78, Phase: 0.85, Magnitude: 0.58, Slope: 0.63)
+
+Sample 375 ISO评分:
+HeadAcceleration - Sample 375 - ISO Score: 0.89 (Corridor: 0.92, Phase: 1.00, Magnitude: 0.86, Slope: 0.75)
+
+Sample 376 ISO评分:
+HeadAcceleration - Sample 376 - ISO Score: 0.61 (Corridor: 0.73, Phase: 0.65, Magnitude: 0.38, Slope: 0.55)
+
+Sample 377 ISO评分:
+HeadAcceleration - Sample 377 - ISO Score: 0.58 (Corridor: 0.64, Phase: 0.65, Magnitude: 0.37, Slope: 0.59)
+
+Sample 378 ISO评分:
+HeadAcceleration - Sample 378 - ISO Score: 0.76 (Corridor: 0.82, Phase: 0.95, Magnitude: 0.55, Slope: 0.65)
+
+Sample 379 ISO评分:
+HeadAcceleration - Sample 379 - ISO Score: 0.70 (Corridor: 0.81, Phase: 0.85, Magnitude: 0.43, Slope: 0.59)
+
+Sample 380 ISO评分:
+HeadAcceleration - Sample 380 - ISO Score: 0.57 (Corridor: 0.63, Phase: 0.65, Magnitude: 0.37, Slope: 0.58)
+
+Sample 381 ISO评分:
+HeadAcceleration - Sample 381 - ISO Score: 0.75 (Corridor: 0.79, Phase: 0.85, Magnitude: 0.63, Slope: 0.67)
+
+Sample 382 ISO评分:
+HeadAcceleration - Sample 382 - ISO Score: 0.74 (Corridor: 0.76, Phase: 0.80, Magnitude: 0.69, Slope: 0.71)
+
+Sample 383 ISO评分:
+HeadAcceleration - Sample 383 - ISO Score: 0.84 (Corridor: 0.84, Phase: 1.00, Magnitude: 0.79, Slope: 0.72)
+
+Sample 384 ISO评分:
+HeadAcceleration - Sample 384 - ISO Score: 0.86 (Corridor: 0.87, Phase: 0.95, Magnitude: 0.84, Slope: 0.78)
+
+Sample 385 ISO评分:
+HeadAcceleration - Sample 385 - ISO Score: 0.65 (Corridor: 0.68, Phase: 0.65, Magnitude: 0.59, Slope: 0.64)
+
+Sample 386 ISO评分:
+HeadAcceleration - Sample 386 - ISO Score: 0.69 (Corridor: 0.74, Phase: 0.70, Magnitude: 0.67, Slope: 0.59)
+
+Sample 387 ISO评分:
+HeadAcceleration - Sample 387 - ISO Score: 0.79 (Corridor: 0.74, Phase: 1.00, Magnitude: 0.75, Slope: 0.71)
+
+Sample 388 ISO评分:
+HeadAcceleration - Sample 388 - ISO Score: 0.82 (Corridor: 0.85, Phase: 0.90, Magnitude: 0.79, Slope: 0.73)
+
+Sample 389 ISO评分:
+HeadAcceleration - Sample 389 - ISO Score: 0.48 (Corridor: 0.63, Phase: 0.15, Magnitude: 0.47, Slope: 0.53)
+
+Sample 390 ISO评分:
+HeadAcceleration - Sample 390 - ISO Score: 0.73 (Corridor: 0.74, Phase: 0.80, Magnitude: 0.68, Slope: 0.67)
+
+Sample 391 ISO评分:
+HeadAcceleration - Sample 391 - ISO Score: 0.64 (Corridor: 0.68, Phase: 0.65, Magnitude: 0.54, Slope: 0.64)
+
+Sample 392 ISO评分:
+HeadAcceleration - Sample 392 - ISO Score: 0.25 (Corridor: 0.31, Phase: 0.00, Magnitude: 0.09, Slope: 0.54)
+
+Sample 393 ISO评分:
+HeadAcceleration - Sample 393 - ISO Score: 0.60 (Corridor: 0.66, Phase: 0.60, Magnitude: 0.47, Slope: 0.59)
+
+Sample 394 ISO评分:
+HeadAcceleration - Sample 394 - ISO Score: 0.84 (Corridor: 0.86, Phase: 1.00, Magnitude: 0.82, Slope: 0.67)
+
+Sample 395 ISO评分:
+HeadAcceleration - Sample 395 - ISO Score: 0.61 (Corridor: 0.70, Phase: 0.65, Magnitude: 0.49, Slope: 0.51)
+
+Sample 396 ISO评分:
+HeadAcceleration - Sample 396 - ISO Score: 0.55 (Corridor: 0.63, Phase: 0.45, Magnitude: 0.46, Slope: 0.58)
+
+Sample 397 ISO评分:
+HeadAcceleration - Sample 397 - ISO Score: 0.77 (Corridor: 0.79, Phase: 0.95, Magnitude: 0.72, Slope: 0.59)
+
+Sample 398 ISO评分:
+HeadAcceleration - Sample 398 - ISO Score: 0.80 (Corridor: 0.82, Phase: 0.95, Magnitude: 0.72, Slope: 0.67)
+
+Sample 399 ISO评分:
+HeadAcceleration - Sample 399 - ISO Score: 0.63 (Corridor: 0.74, Phase: 0.65, Magnitude: 0.45, Slope: 0.55)
+
+Sample 400 ISO评分:
+HeadAcceleration - Sample 400 - ISO Score: 0.76 (Corridor: 0.84, Phase: 0.95, Magnitude: 0.55, Slope: 0.63)
+
+Sample 401 ISO评分:
+HeadAcceleration - Sample 401 - ISO Score: 0.79 (Corridor: 0.84, Phase: 1.00, Magnitude: 0.58, Slope: 0.67)
+
+Sample 402 ISO评分:
+HeadAcceleration - Sample 402 - ISO Score: 0.64 (Corridor: 0.73, Phase: 0.80, Magnitude: 0.40, Slope: 0.55)
+
+Sample 403 ISO评分:
+HeadAcceleration - Sample 403 - ISO Score: 0.85 (Corridor: 0.85, Phase: 0.95, Magnitude: 0.87, Slope: 0.70)
+
+Sample 404 ISO评分:
+HeadAcceleration - Sample 404 - ISO Score: 0.63 (Corridor: 0.62, Phase: 0.85, Magnitude: 0.46, Slope: 0.57)
+
+Sample 405 ISO评分:
+HeadAcceleration - Sample 405 - ISO Score: 0.59 (Corridor: 0.66, Phase: 0.60, Magnitude: 0.45, Slope: 0.58)
+
+Sample 406 ISO评分:
+HeadAcceleration - Sample 406 - ISO Score: 0.52 (Corridor: 0.62, Phase: 0.40, Magnitude: 0.38, Slope: 0.59)
+
+Sample 407 ISO评分:
+HeadAcceleration - Sample 407 - ISO Score: 0.55 (Corridor: 0.68, Phase: 0.35, Magnitude: 0.47, Slope: 0.55)
+
+Sample 408 ISO评分:
+HeadAcceleration - Sample 408 - ISO Score: 0.81 (Corridor: 0.83, Phase: 0.95, Magnitude: 0.72, Slope: 0.73)
+
+Sample 409 ISO评分:
+HeadAcceleration - Sample 409 - ISO Score: 0.73 (Corridor: 0.81, Phase: 0.90, Magnitude: 0.53, Slope: 0.58)
+
+Sample 410 ISO评分:
+HeadAcceleration - Sample 410 - ISO Score: 0.77 (Corridor: 0.83, Phase: 0.95, Magnitude: 0.60, Slope: 0.66)
+
+Sample 411 ISO评分:
+HeadAcceleration - Sample 411 - ISO Score: 0.43 (Corridor: 0.33, Phase: 0.65, Magnitude: 0.27, Slope: 0.56)
+
+Sample 412 ISO评分:
+HeadAcceleration - Sample 412 - ISO Score: 0.79 (Corridor: 0.80, Phase: 0.85, Magnitude: 0.77, Slope: 0.73)
+
+Sample 413 ISO评分:
+HeadAcceleration - Sample 413 - ISO Score: 0.73 (Corridor: 0.73, Phase: 0.95, Magnitude: 0.64, Slope: 0.59)
+
+Sample 414 ISO评分:
+HeadAcceleration - Sample 414 - ISO Score: 0.82 (Corridor: 0.85, Phase: 0.95, Magnitude: 0.78, Slope: 0.68)
+
+Sample 415 ISO评分:
+HeadAcceleration - Sample 415 - ISO Score: 0.56 (Corridor: 0.70, Phase: 0.35, Magnitude: 0.48, Slope: 0.55)
+
+Sample 416 ISO评分:
+HeadAcceleration - Sample 416 - ISO Score: 0.48 (Corridor: 0.66, Phase: 0.15, Magnitude: 0.37, Slope: 0.56)
+
+Sample 417 ISO评分:
+HeadAcceleration - Sample 417 - ISO Score: 0.60 (Corridor: 0.67, Phase: 0.60, Magnitude: 0.48, Slope: 0.59)
+
+Sample 418 ISO评分:
+HeadAcceleration - Sample 418 - ISO Score: 0.60 (Corridor: 0.67, Phase: 0.55, Magnitude: 0.51, Slope: 0.60)
+
+Sample 419 ISO评分:
+HeadAcceleration - Sample 419 - ISO Score: 0.66 (Corridor: 0.64, Phase: 0.75, Magnitude: 0.62, Slope: 0.63)
+
+Sample 420 ISO评分:
+HeadAcceleration - Sample 420 - ISO Score: 0.82 (Corridor: 0.84, Phase: 1.00, Magnitude: 0.72, Slope: 0.68)
+
+Sample 421 ISO评分:
+HeadAcceleration - Sample 421 - ISO Score: 0.66 (Corridor: 0.75, Phase: 0.85, Magnitude: 0.39, Slope: 0.55)
+
+Sample 422 ISO评分:
+HeadAcceleration - Sample 422 - ISO Score: 0.83 (Corridor: 0.86, Phase: 0.90, Magnitude: 0.77, Slope: 0.78)
+
+Sample 423 ISO评分:
+HeadAcceleration - Sample 423 - ISO Score: 0.52 (Corridor: 0.75, Phase: 0.25, Magnitude: 0.27, Slope: 0.55)
+
+Sample 424 ISO评分:
+HeadAcceleration - Sample 424 - ISO Score: 0.52 (Corridor: 0.59, Phase: 0.65, Magnitude: 0.23, Slope: 0.51)
+
+Sample 425 ISO评分:
+HeadAcceleration - Sample 425 - ISO Score: 0.84 (Corridor: 0.87, Phase: 0.95, Magnitude: 0.80, Slope: 0.69)
+
+Sample 426 ISO评分:
+HeadAcceleration - Sample 426 - ISO Score: 0.80 (Corridor: 0.80, Phase: 0.95, Magnitude: 0.74, Slope: 0.69)
+
+Sample 427 ISO评分:
+HeadAcceleration - Sample 427 - ISO Score: 0.62 (Corridor: 0.74, Phase: 0.90, Magnitude: 0.19, Slope: 0.53)
+
+Sample 428 ISO评分:
+HeadAcceleration - Sample 428 - ISO Score: 0.52 (Corridor: 0.65, Phase: 0.35, Magnitude: 0.40, Slope: 0.56)
+
+Sample 429 ISO评分:
+HeadAcceleration - Sample 429 - ISO Score: 0.12 (Corridor: 0.16, Phase: 0.30, Magnitude: 0.00, Slope: 0.00)
+
+Sample 430 ISO评分:
+HeadAcceleration - Sample 430 - ISO Score: 0.76 (Corridor: 0.82, Phase: 0.90, Magnitude: 0.58, Slope: 0.66)
+
+Sample 431 ISO评分:
+HeadAcceleration - Sample 431 - ISO Score: 0.55 (Corridor: 0.61, Phase: 0.80, Magnitude: 0.18, Slope: 0.51)
+
+Sample 432 ISO评分:
+HeadAcceleration - Sample 432 - ISO Score: 0.54 (Corridor: 0.65, Phase: 0.60, Magnitude: 0.25, Slope: 0.53)
+
+Sample 433 ISO评分:
+HeadAcceleration - Sample 433 - ISO Score: 0.80 (Corridor: 0.79, Phase: 1.00, Magnitude: 0.70, Slope: 0.72)
+
+Sample 434 ISO评分:
+HeadAcceleration - Sample 434 - ISO Score: 0.60 (Corridor: 0.72, Phase: 0.80, Magnitude: 0.22, Slope: 0.54)
+
+Sample 435 ISO评分:
+HeadAcceleration - Sample 435 - ISO Score: 0.72 (Corridor: 0.82, Phase: 0.95, Magnitude: 0.43, Slope: 0.59)
+
+Sample 436 ISO评分:
+HeadAcceleration - Sample 436 - ISO Score: 0.39 (Corridor: 0.49, Phase: 0.20, Magnitude: 0.24, Slope: 0.53)
+
+Sample 437 ISO评分:
+HeadAcceleration - Sample 437 - ISO Score: 0.52 (Corridor: 0.60, Phase: 0.30, Magnitude: 0.48, Slope: 0.60)
+
+Sample 438 ISO评分:
+HeadAcceleration - Sample 438 - ISO Score: 0.76 (Corridor: 0.85, Phase: 0.90, Magnitude: 0.54, Slope: 0.65)
+
+Sample 439 ISO评分:
+HeadAcceleration - Sample 439 - ISO Score: 0.77 (Corridor: 0.82, Phase: 0.95, Magnitude: 0.57, Slope: 0.67)
+
+Sample 440 ISO评分:
+HeadAcceleration - Sample 440 - ISO Score: 0.56 (Corridor: 0.62, Phase: 0.60, Magnitude: 0.44, Slope: 0.53)
+
+Sample 441 ISO评分:
+HeadAcceleration - Sample 441 - ISO Score: 0.52 (Corridor: 0.65, Phase: 0.45, Magnitude: 0.32, Slope: 0.55)
+
+Sample 442 ISO评分:
+HeadAcceleration - Sample 442 - ISO Score: 0.85 (Corridor: 0.85, Phase: 0.95, Magnitude: 0.81, Slope: 0.80)
+
+Sample 443 ISO评分:
+HeadAcceleration - Sample 443 - ISO Score: 0.80 (Corridor: 0.81, Phase: 0.90, Magnitude: 0.76, Slope: 0.70)
+
+Sample 444 ISO评分:
+HeadAcceleration - Sample 444 - ISO Score: 0.55 (Corridor: 0.57, Phase: 0.50, Magnitude: 0.50, Slope: 0.60)
+
+Sample 445 ISO评分:
+HeadAcceleration - Sample 445 - ISO Score: 0.73 (Corridor: 0.72, Phase: 1.00, Magnitude: 0.67, Slope: 0.57)
+
+Sample 446 ISO评分:
+HeadAcceleration - Sample 446 - ISO Score: 0.74 (Corridor: 0.73, Phase: 1.00, Magnitude: 0.66, Slope: 0.59)
+
+Sample 447 ISO评分:
+HeadAcceleration - Sample 447 - ISO Score: 0.78 (Corridor: 0.78, Phase: 1.00, Magnitude: 0.70, Slope: 0.61)
+
+Sample 448 ISO评分:
+HeadAcceleration - Sample 448 - ISO Score: 0.67 (Corridor: 0.71, Phase: 0.85, Magnitude: 0.47, Slope: 0.59)
+
+Sample 449 ISO评分:
+HeadAcceleration - Sample 449 - ISO Score: 0.81 (Corridor: 0.84, Phase: 0.90, Magnitude: 0.78, Slope: 0.71)
+
+Sample 450 ISO评分:
+HeadAcceleration - Sample 450 - ISO Score: 0.66 (Corridor: 0.70, Phase: 0.90, Magnitude: 0.41, Slope: 0.59)
+
+Sample 451 ISO评分:
+HeadAcceleration - Sample 451 - ISO Score: 0.44 (Corridor: 0.57, Phase: 0.05, Magnitude: 0.51, Slope: 0.53)
+
+Sample 452 ISO评分:
+HeadAcceleration - Sample 452 - ISO Score: 0.61 (Corridor: 0.74, Phase: 0.90, Magnitude: 0.14, Slope: 0.54)
+
+Sample 453 ISO评分:
+HeadAcceleration - Sample 453 - ISO Score: 0.80 (Corridor: 0.80, Phase: 1.00, Magnitude: 0.72, Slope: 0.67)
+
+Sample 454 ISO评分:
+HeadAcceleration - Sample 454 - ISO Score: 0.17 (Corridor: 0.26, Phase: 0.00, Magnitude: 0.00, Slope: 0.31)
+
+Sample 455 ISO评分:
+HeadAcceleration - Sample 455 - ISO Score: 0.83 (Corridor: 0.86, Phase: 0.90, Magnitude: 0.80, Slope: 0.72)
+
+所有测试集的平均ISO评分:
+HeadAcceleration - 平均ISO评分: 0.69 (Corridor: 0.74, Phase: 0.78, Magnitude: 0.54, Slope: 0.63)
+ISO评分分布直方图已保存至: /public/home/acnebvshuq/js/occupant/norm/result/mse/headacc/iso_scores_histograms.png
